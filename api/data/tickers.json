@@ -1,0 +1,19 @@
+{
+    "ECON": {
+        "title": "Wood Duck",
+        "art_id": "econ",
+        "artist": "Will Johnson",
+        "price": 100,
+        "quantity": 10,
+        "description": "Male Wood Duck on Eastern Cottonwood branch rendered in color pencil on 18\u201d x 24\u201d matte drawing paper. Drawing time: 10 hours.",
+        "category": "Econ26 Final Project",
+        "volume": 0,
+        "transactions": 0,
+        "last_trade_price": 100,
+        "trades": [],
+        "orderbook": {
+            "bids": [],
+            "asks": []
+        }
+    }
+}
